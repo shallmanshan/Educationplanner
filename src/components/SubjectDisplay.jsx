@@ -1,5 +1,5 @@
 import React from 'react';
-import './SubjectDisplay.css';
+import './Components/SubjectDisplay.css';
 
 const SubjectDisplay = ({ subject, hours, onIncrement, onDecrement }) => {
   return (
